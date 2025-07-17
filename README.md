@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kyle-ski-nps-explorer-mcp-server-badge.png)](https://mseep.ai/app/kyle-ski-nps-explorer-mcp-server)
+
 # NPS Explorer MCP Server 🔭
 ## Overview
 
